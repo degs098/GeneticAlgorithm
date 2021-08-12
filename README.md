@@ -3,11 +3,6 @@
 ​																																																Daniel Esteban Gallego Sierra - 1214741637
 ​																																																Jeison Velásquez Sepúlveda - 1152708003
 
-### DIAGRAMA DE FLUJO
-
-![algo](https://static.packt-cdn.com/products/9781838557744/graphics/assets/cbbfbc4b-9b8d-437f-82e4-71e595a34d2d.png)
-
-
 
 ### POBLACIÓN/GENES
 
