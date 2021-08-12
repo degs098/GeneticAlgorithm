@@ -5,7 +5,7 @@
 
 ### DIAGRAMA DE FLUJO
 
-![image-20210811211003882](C:\Users\velas\AppData\Roaming\Typora\typora-user-images\image-20210811211003882.png)
+![](https://static.packt-cdn.com/products/9781838557744/graphics/assets/cbbfbc4b-9b8d-437f-82e4-71e595a34d2d.png)
 
 
 
