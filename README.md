@@ -1,7 +1,9 @@
-# GeneticAlgorithm													INTEGRANTES
+# GeneticAlgorithm													
 
-​																																																Daniel Esteban Gallego Sierra - 1214741637
-​																																																Jeison Velásquez Sepúlveda - 1152708003
+### INTEGRANTES
+
+Daniel Esteban Gallego Sierra - 1214741637
+Jeison Velásquez Sepúlveda - 1152708003
 
 
 ### POBLACIÓN/GENES
