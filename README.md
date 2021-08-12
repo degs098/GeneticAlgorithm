@@ -25,3 +25,7 @@ El cruce en un algoritmo genético es una operación que se realiza con el fin d
 ### PROBABILIDADES
 
 La probabilidad de mutación radica en la operación que tiene como objetivo generar nueva información dentro de la población para obtener cada vez un mejor resultado.
+
+-----------------------
+#### LINK DE YOUTUBE FUNCIONAMIENTO DEL ALGORITMO
+https://youtu.be/48c1XR4RHdk
